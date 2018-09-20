@@ -22,7 +22,7 @@
 
 
  ## Screen Recording of Application
-![Alt text](Sep 20, 2018 3_49 PM.webm "Screen Recording")
+![Screenshot](Sep 20, 2018 3_49 PM.webm)
 
 
  
