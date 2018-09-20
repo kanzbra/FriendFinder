@@ -22,8 +22,7 @@
 
 
  ## Screen Recording of Application
-![Screenshot](Sep 20, 2018 3_49 PM.webm)
-
+https://drive.google.com/file/d/1jwHcpU3BRzJno_oDBCMFgaM9qnYFEUKs/view
 
  
 
