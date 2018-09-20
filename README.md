@@ -13,9 +13,10 @@
 
 
 ## How to View
-* Clone Repo ||
-* Click on link above repo ||
-* Click link on readme will take you to deployed heroku site
+* Clone Repo || Click link on readme will take you to deployed heroku site
+
+## Link to Application
+https://limitless-basin-67487.herokuapp.com/
 
  
  ## What Each JS File does
