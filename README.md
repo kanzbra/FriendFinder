@@ -22,7 +22,8 @@
 
 
  ## Screen Recording of Application
-![Screen Recording](hhttps://drive.google.com/file/d/1jwHcpU3BRzJno_oDBCMFgaM9qnYFEUKs/view)
+![Alt text](Sep 20, 2018 3_49 PM.webm "Screen Recording")
+
 
  
 
