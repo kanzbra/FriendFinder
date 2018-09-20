@@ -1,4 +1,3 @@
-# FriendFinder
 
  # "Friend Finder" Application
 ##### Built a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site takes in results from your  surveys, then compare their answers to find the Best Match!
