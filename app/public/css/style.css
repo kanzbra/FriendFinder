@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    }
+    h1 {
+    font-family:"Arvo";
+    font-weight:normal;
+    font-size: 95px;
+    text-align: center;
+    color: black;
+    margin: 0;
+    padding: 0;
+    }
+    h2 {
+    font-family:"Arvo";
+    font-weight: normal;
+    font-size: 80px;
+    text-align: center;
+    color:black;
+    margin: 0;
+    padding: 0;
+    }
+    h3 {
+    font-family: Oswald;
+    color:black;
+    font-weight: normal;
+    font-size: 40px;
+    text-align: center;
+    margin: 5px 0;
+    padding: 0;
+    z-index: 1;
+    position: relative;
+    }
+
+    .center { margin: 0 auto; }
+    .content{ margin: 0 auto; width: 960px;}
+    .contents{margin-top:60px;}
+    .clear { clear: both; }
+    
+    #boxOne {
+        background-color: black;
+        width: 270px;
+        padding-bottom:5px;
+        margin-left:490px;
+    }
+
+    #box{
+        color:whitesmoke;
+    }
+
+    #header {
+    width: 100%;
+    background-color: black;
+    height: 80px;
+    position: fixed;
+    margin-top: 30px;
+    }
+    #nav { width: 410px; float: right; margin-top: 20px; }
+    #logo a { color: #fff; text-decoration: none; float: left; font-size: 30px; margin-top: 20px; color: #fff; font-family:"Wellfleet"; font-weight: bold; }
+    #nav ul{
+    list-style: none;
+    display: block;
+    margin: 0 auto;
+    list-style: none;
+    }
+    #nav li{
+    margin-top: 9px;
+    float: left;
+    padding-left: 21px;
+    }
+    #nav li a { color: #fff; opacity:0.6; font-size: 16px; text-decoration: none; font-family: 'Wellfleet'; }
+    #nav li a.active { color: #fff; opacity:1; border-bottom: 2px solid #fff; }
+    #nav li a:hover { color: #fff; opacity:1; }
+    
+    .quotes {
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-weight: normal;
+    font-size: 40px;
+    text-align: center;
+    margin: 80px auto;
+    color:white;
+    }
+    
+    .quotes_container { width: 800px; margin: 0 auto; }
+
+    
+    #slide1, #slide2{ width: 100%; }
+    #slide1{
+    background:url('../images/firends.jpg') 50% 0 no-repeat fixed;
+    color: #fff;
+    height: 900px;
+    margin: 0;
+    padding: 200px 0 260px 0;
+    background-size: cover;
+    }
+    #slide2{
+        background:url('../images/group.jpg') 50% 0 no-repeat fixed;
+    color:whitesmoke;
+    height: 900px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 200px 0 260px 0;
+    background-size: cover;
+    }
+    #slide3{
+    background: url('../images/boozefriends.jpg') 50% 0 no-repeat fixed;
+    background-color: black;
+    color: #fff;
+    height: 1750px;
+    padding: 170px 0 0 0;
+    background-size: cover;
+    }
+
+    #form {
+        background-color: black;
+        
+        margin-left:240px;
+        padding-top:10px;
+        padding-bottom:10px;
+        width:70%;
+    
+       
+    }
+
+    #statement {
+        font-size: 40px;
+    }
+
+    .form-control{
+        width:70%;
+        text-align: center;
+        margin-left:170px;
+    }
+    .form-group{
+        text-align: center;
+        margin-top:10px;
+        font-family:"Arvo";
+    }
+    .number{
+        font-size: 16px;
+        color: white;
+    }
+    .question{
+        font-size: 18px;
+        color: white;
+        font-family:"Arvo";
+    } 
+   .footer{
+       background-color: black;
+       padding-top: .5px;
+  
+       padding-bottom: 2px;
+       font-family:"Arvo";
+       font-weight:normal;
+       font-size: 18px;
+       text-align: left;
+       color: white;
+       width:100%;
+   }
+  
+   #submit{
+    text-align: center;
+    margin-left:280px;
+    width: 40%;
+    height: 70px;
+    font-family:"Arvo";
+    font-size: 18px;
+    background-color: blueviolet;
+
+}
+
